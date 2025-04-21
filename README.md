@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa Ahmed Saad</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, I'm Mustafa Ahmed Saad</h1>
 <h3 align="center">A passionate Front-end web developer</h3>
 
 <h3 align="center">Connect with me:</h3>
