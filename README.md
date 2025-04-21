@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ahmed Saad</h1>
 <h3 align="center">A passionate Front-end web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafasa3d&label=Profile%20views&color=0e75b6&style=flat" alt="mustafasa3d" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mustafa ahmed saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa ahmed saad" height="30" width="40" /></a>
@@ -14,5 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafasa3d&show_icons=true&locale=en&layout=compact" alt="mustafasa3d" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafasa3d&show_icons=true&locale=en" alt="mustafasa3d" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafasa3d&" alt="mustafasa3d" /></p>
