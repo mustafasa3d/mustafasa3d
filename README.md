@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I'm Mustafa Ahmed Saad</h1>
 <h3 align="center">A passionate Front-end web developer</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafasa3d&theme=gruv" alt="mustafasa3d" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafasa3d&theme=highcontrast" alt="mustafasa3d" /></p>
 
 
 <h3 align="center">Languages and Tools:</h3>
