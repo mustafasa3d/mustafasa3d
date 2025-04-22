@@ -4,9 +4,9 @@
 <br />
 
 <p align="center">
-<a href="#"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ0MHJ1cG1kbWt5d2x5Nm4xNW5rOWd6bnptbWZiNzlnbWZjdGFxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+<a href="#"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ0MHJ1cG1kbWt5d2x5Nm4xNW5rOWd6bnptbWZiNzlnbWZjdGFxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" alt="Coder GIF" width="400" height="300"></a>
 </p>
-
+<br />
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafasa3d&theme=highcontrast" alt="mustafasa3d" /></p>
 
